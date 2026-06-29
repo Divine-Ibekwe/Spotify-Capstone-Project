@@ -1,0 +1,2 @@
+The model was able to correctly classify Spotify subscription plans with an accuracy of 72.12%,
+ indicating a reasonably strong relationship between user characteristics and subscription choice.
